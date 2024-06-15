@@ -1,28 +1,31 @@
-GoGlobe: Your Ultimate Hotel Search Platform
-Welcome to GoGlobe, your one-stop destination for finding the perfect hotel. Whether you're planning a luxurious getaway or a budget-friendly trip, GoGlobe makes it easy to discover hotels that meet all your needs. Here's what you can expect from our platform:
+# GoGlobe: Your Ultimate Hotel Search Platform
 
-Advanced Filtering Options
-With GoGlobe, you have the power to refine your hotel search to fit your specific requirements:
+Welcome to GoGlobe, your ultimate destination for finding the perfect hotel. Whether you're planning a luxurious getaway or a budget-friendly trip, GoGlobe makes it effortless to discover hotels that meet all your needs. Here's what you can expect from our platform:
 
-Price Range Slider: Easily adjust the price range slider to set your budget and view hotels within your desired price range. Whether you're looking for a budget stay or a five-star experience, GoGlobe helps you find it effortlessly.
+## Features
 
-Facilities Filter: Looking for specific amenities? Our facilities filter lets you select from a wide range of options such as WiFi, pool, parking, gym, and more. Simply check the facilities you need, and we'll show you the hotels that offer them.
+### Advanced Filtering Options
+Refine your hotel search to fit your specific requirements with GoGlobe's advanced filtering options:
 
-Real-Time Search Results
-Our dynamic search functionality ensures you get the most relevant results in real-time:
+- **Price Range Slider**: Easily adjust the price range to find hotels within your budget, from budget stays to luxurious accommodations.
+  
+- **Facilities Filter**: Select specific amenities like WiFi, pool, parking, gym, and more. GoGlobe shows you hotels that match your selected amenities.
 
-Combined Filters: GoGlobe combines both price and facility filters to provide you with the best matching hotels. You no longer have to sift through irrelevant options; instead, get a curated list that fits both your budget and your desired amenities.
+### Real-Time Search Results
+Enjoy real-time search results that ensure you find the most relevant options instantly:
 
-Instant Updates: As you adjust your filters, GoGlobe instantly updates the list of available hotels, saving you time and making your search experience seamless and efficient.
+- **Combined Filters**: GoGlobe combines price and facility filters to present curated hotel options that fit both your budget and desired amenities.
+  
+- **Instant Updates**: Adjust filters seamlessly and see the list of available hotels update instantly, saving you time and effort.
 
-Frontend Technology Stack
-Next.js
-Tailwind CSS
-Backend Technology Stack
-Node.js
-MongoDB
+## Technology Stack
 
-Best Deals and Offers: We collaborate with top hotel providers to bring you the best deals and exclusive offers, making your stay not only comfortable but also cost-effective.
+### Frontend
+```plaintext
+- Next.js: React framework for server-rendered and static websites.
+- Tailwind CSS: Utility-first CSS framework for designing custom styles quickly.
 
-Experience the World with GoGlobe
-At GoGlobe, we believe in making travel planning as enjoyable as the trip itself. Start your journey with us and discover the perfect place to stay, tailored to your preferences and budget. GoGlobe - Explore the world, your way.
+### Backend
+```plaintext
+- Node.js: JavaScript runtime for building scalable network applications.
+- MongoDB: NoSQL database for storing and managing hotel data efficiently.
