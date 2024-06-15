@@ -1,40 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+GoGlobe: Your Ultimate Hotel Search Platform
+Welcome to GoGlobe, your one-stop destination for finding the perfect hotel. Whether you're planning a luxurious getaway or a budget-friendly trip, GoGlobe makes it easy to discover hotels that meet all your needs. Here's what you can expect from our platform:
 
-## Getting Started
+Advanced Filtering Options
+With GoGlobe, you have the power to refine your hotel search to fit your specific requirements:
 
-First, run the development server:
+Price Range Slider: Easily adjust the price range slider to set your budget and view hotels within your desired price range. Whether you're looking for a budget stay or a five-star experience, GoGlobe helps you find it effortlessly.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Facilities Filter: Looking for specific amenities? Our facilities filter lets you select from a wide range of options such as WiFi, pool, parking, gym, and more. Simply check the facilities you need, and we'll show you the hotels that offer them.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Real-Time Search Results
+Our dynamic search functionality ensures you get the most relevant results in real-time:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Combined Filters: GoGlobe combines both price and facility filters to provide you with the best matching hotels. You no longer have to sift through irrelevant options; instead, get a curated list that fits both your budget and your desired amenities.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Instant Updates: As you adjust your filters, GoGlobe instantly updates the list of available hotels, saving you time and making your search experience seamless and efficient.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+User-Friendly Interface
+Navigating GoGlobe is a breeze:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Intuitive Design: Our user-friendly interface is designed to make your hotel search as smooth as possible. The clean layout and straightforward controls ensure you can find what you're looking for without any hassle.
 
-## Learn More
+Responsive Components: Whether you're using a desktop, tablet, or smartphone, GoGlobe's responsive design ensures a consistent and pleasant experience across all devices.
 
-To learn more about Next.js, take a look at the following resources:
+Comprehensive Hotel Information
+Each hotel listing on GoGlobe provides detailed information to help you make an informed decision:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Detailed Descriptions: Get comprehensive details about each hotel's amenities, services, and location. Know exactly what to expect before you book.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+User Reviews and Ratings: Read real reviews and ratings from other travelers to help you choose the best hotel for your stay.
 
-## Deploy on Vercel
+Easy Booking Process
+Once you've found your ideal hotel, booking is just a few clicks away:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Direct Booking Links: GoGlobe provides direct links to book your chosen hotel, ensuring a quick and secure booking process.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Best Deals and Offers: We collaborate with top hotel providers to bring you the best deals and exclusive offers, making your stay not only comfortable but also cost-effective.
+
+Experience the World with GoGlobe
+At GoGlobe, we believe in making travel planning as enjoyable as the trip itself. Start your journey with us and discover the perfect place to stay, tailored to your preferences and budget. GoGlobe - Explore the world, your way.
