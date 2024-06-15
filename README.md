@@ -21,11 +21,11 @@ Enjoy real-time search results that ensure you find the most relevant options in
 ## Technology Stack
 
 ### Frontend
-```plaintext
+
 - Next.js: React framework for server-rendered and static websites.
 - Tailwind CSS: Utility-first CSS framework for designing custom styles quickly.
 
 ### Backend
-```plaintext
+
 - Node.js: JavaScript runtime for building scalable network applications.
 - MongoDB: NoSQL database for storing and managing hotel data efficiently.
