@@ -1,40 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# GoGlobe: Your Ultimate Hotel Search Platform
 
-## Getting Started
+Welcome to GoGlobe, your ultimate destination for finding the perfect hotel. Whether you're planning a luxurious getaway or a budget-friendly trip, GoGlobe makes it effortless to discover hotels that meet all your needs. Here's what you can expect from our platform:
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Advanced Filtering Options
+Refine your hotel search to fit your specific requirements with GoGlobe's advanced filtering options:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Price Range Slider**: Easily adjust the price range to find hotels within your budget, from budget stays to luxurious accommodations.
+  
+- **Facilities Filter**: Select specific amenities like WiFi, pool, parking, gym, and more. GoGlobe shows you hotels that match your selected amenities.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Real-Time Search Results
+Enjoy real-time search results that ensure you find the most relevant options instantly:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- **Combined Filters**: GoGlobe combines price and facility filters to present curated hotel options that fit both your budget and desired amenities.
+  
+- **Instant Updates**: Adjust filters seamlessly and see the list of available hotels update instantly, saving you time and effort.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Technology Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Frontend
 
-## Learn More
+- Next.js: React framework for server-rendered and static websites.
+- Tailwind CSS: Utility-first CSS framework for designing custom styles quickly.
 
-To learn more about Next.js, take a look at the following resources:
+### Backend
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Node.js: JavaScript runtime for building scalable network applications.
+- MongoDB: NoSQL database for storing and managing hotel data efficiently.
