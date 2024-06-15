@@ -101,7 +101,7 @@ const SignupPage = () => {
                 <div className="mt-4 text-center">
                     {login ? (
                         <p className="text-black font-semibold">
-                            Don't have an account?{' '}
+                            Don't have an account?
                             <button
                                 className="text-blue-500 hover:underline font-semibold"
                                 onClick={() => setLogin(false)}
