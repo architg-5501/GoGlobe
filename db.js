@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
-const URI = "mongodb+srv://architg5501:archi1234@archit.rrghorm.mongodb.net/OYO?retryWrites=true&w=majority";
+//access thorugh env.local
+const URI = process.env.MONGODB_URI;
 
 const connectDB = async () => {
     await mongoose.connect(URI, {
