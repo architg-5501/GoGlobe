@@ -15,24 +15,12 @@ Combined Filters: GoGlobe combines both price and facility filters to provide yo
 
 Instant Updates: As you adjust your filters, GoGlobe instantly updates the list of available hotels, saving you time and making your search experience seamless and efficient.
 
-User-Friendly Interface
-Navigating GoGlobe is a breeze:
-
-Intuitive Design: Our user-friendly interface is designed to make your hotel search as smooth as possible. The clean layout and straightforward controls ensure you can find what you're looking for without any hassle.
-
-Responsive Components: Whether you're using a desktop, tablet, or smartphone, GoGlobe's responsive design ensures a consistent and pleasant experience across all devices.
-
-Comprehensive Hotel Information
-Each hotel listing on GoGlobe provides detailed information to help you make an informed decision:
-
-Detailed Descriptions: Get comprehensive details about each hotel's amenities, services, and location. Know exactly what to expect before you book.
-
-User Reviews and Ratings: Read real reviews and ratings from other travelers to help you choose the best hotel for your stay.
-
-Easy Booking Process
-Once you've found your ideal hotel, booking is just a few clicks away:
-
-Direct Booking Links: GoGlobe provides direct links to book your chosen hotel, ensuring a quick and secure booking process.
+Frontend Technology Stack
+Next.js
+Tailwind CSS
+Backend Technology Stack
+Node.js
+MongoDB
 
 Best Deals and Offers: We collaborate with top hotel providers to bring you the best deals and exclusive offers, making your stay not only comfortable but also cost-effective.
 
